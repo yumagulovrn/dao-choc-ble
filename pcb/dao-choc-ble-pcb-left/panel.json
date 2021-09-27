@@ -1,0 +1,43 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": 1,
+        "cols": 1,
+        "hspace": "0mm",
+        "vspace": "0mm",
+        "rotation": "0deg",
+        "alternation": "none",
+        "renamenet": "Board_{n}-{orig}",
+        "renameref": "{orig}"
+    },
+    "source": {
+        "type": "auto",
+        "tolerance": "20mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "width": "5mm",
+        "vcount": 2
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.5mm",
+        "spacing": "0.7mm",
+        "offset": "-0.25mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "space": "2mm",
+        "width": "5mm",
+        "copperFill": false
+    },
+    "tooling": {
+        "type": "3hole",
+        "size": "1.152mm",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm"
+    },
+    "post": {
+        "millradius": "0.5mm"
+    }
+}

@@ -1,0 +1,11 @@
+(module Slot (layer F.Cu) (tedit 6150EACB)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Slot (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 1 4) (drill oval 1 4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 0 7.5) (size 1 4) (drill oval 1 4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 0 -7) (size 1 4) (drill oval 1 4) (layers *.Cu *.Mask))
+)
