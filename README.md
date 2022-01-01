@@ -90,3 +90,9 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 - [x] Add link to a firmware
 - [x] Add link to a bootloader
 - [x] Make release v1.0
+
+## Contacts
+
+Telegram (eng): https://t.me/rafworksintl
+
+Telegram (ru): https://t.me/rafworks
