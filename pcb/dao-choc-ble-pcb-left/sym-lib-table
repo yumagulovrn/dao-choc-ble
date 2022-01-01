@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name dao-choc-ble)(type Legacy)(uri ${KIPRJMOD}/../../lib/dao-choc-ble.lib)(options "")(descr ""))
-)

@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Keyboards\dao-choc-ble\pcb\44key\dao-choc-ble-pcb-left\dao-choc-ble-left.kicad_sch</source>
+    <date>01.01.2022 14:03:32</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>dao-choc-ble-left.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>dao-choc-ble:Battery</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006123cafd</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614abcfd</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614cd1b4</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1588</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1588"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061244ad6</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611eeb14</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611efcc8</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19666</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19666"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611f1d1b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19666</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19666"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612a4b68</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b3c2d</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b5ebd</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b7959</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b7965</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611ba039</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611ba045</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad01</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad0d</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad19</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad25</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad31</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad3d</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd639</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd645</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd651</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd65d</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd669</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd675</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d19cf</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d19f3</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d19ff</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148WS</value>
+      <footprint>dao-choc-ble:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C57759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d1a0b</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>1N5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C169540</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC" value="C169540"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614fe0e4</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>RED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612c6f74</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>BLUE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C72041</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000616f77ad</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C355568</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="LCSC" value="C355568"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061267faf</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole 4.2mm</value>
+      <footprint>dao-choc-ble:Hole_4.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e33f5</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole 4.2mm</value>
+      <footprint>dao-choc-ble:Hole_4.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e4ea8</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole 4.2mm</value>
+      <footprint>dao-choc-ble:Hole_4.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e53e1</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole 4.2mm</value>
+      <footprint>dao-choc-ble:Hole_4.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e5785</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole 4.2mm</value>
+      <footprint>dao-choc-ble:Hole_4.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e5aee</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole 2.2mm</value>
+      <footprint>dao-choc-ble:Hole_2.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e5dbc</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole 2.2mm</value>
+      <footprint>dao-choc-ble:Hole_2.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e6021</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole 2.2mm</value>
+      <footprint>dao-choc-ble:Hole_2.2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e6378</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>Slot</value>
+      <footprint>dao-choc-ble:Slot</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006152f8c1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB</value>
+      <footprint>dao-choc-ble:USB-C_C168688</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C168688</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="LCSC" value="C168688"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611f2eb0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>PROG</value>
+      <footprint>dao-choc-ble:PROG</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006158efd8</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b1a39</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b5eb7</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b7953</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611b795f</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611ba033</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611ba03f</tstamps>
+    </comp>
+    <comp ref="K7">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cacfb</tstamps>
+    </comp>
+    <comp ref="K8">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad07</tstamps>
+    </comp>
+    <comp ref="K9">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad13</tstamps>
+    </comp>
+    <comp ref="K10">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad1f</tstamps>
+    </comp>
+    <comp ref="K11">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad2b</tstamps>
+    </comp>
+    <comp ref="K12">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cad37</tstamps>
+    </comp>
+    <comp ref="K13">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd633</tstamps>
+    </comp>
+    <comp ref="K14">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd63f</tstamps>
+    </comp>
+    <comp ref="K15">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd64b</tstamps>
+    </comp>
+    <comp ref="K16">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd657</tstamps>
+    </comp>
+    <comp ref="K17">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd663</tstamps>
+    </comp>
+    <comp ref="K18">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611cd66f</tstamps>
+    </comp>
+    <comp ref="K19">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d19c9</tstamps>
+    </comp>
+    <comp ref="K20">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d19ed</tstamps>
+    </comp>
+    <comp ref="K21">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d19f9</tstamps>
+    </comp>
+    <comp ref="K22">
+      <value>KEY_SWITCH</value>
+      <footprint>dao-choc-ble:Kailh_PG1350_hotswap</footprint>
+      <libsource lib="dao-choc-ble" part="KEY_SWITCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611d1a05</tstamps>
+    </comp>
+    <comp ref="LOGO1">
+      <value>OSHW-logo</value>
+      <footprint>dao-choc-ble:OSHW-logo</footprint>
+      <libsource lib="dao-choc-ble" part="OSHW-logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061543829</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15127</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C15127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613ffc9c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23186</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23186"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006126f86e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23186</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23186"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612706a5</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23164</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23164"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614ec0c0</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22935</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22935"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006124373c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>806k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C103828</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103828"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000615584c4</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C21190</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C21190"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612b860c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C21190</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C21190"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612b3ddb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22976</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22976"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006157a631</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>RPROG</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22978</field>
+        <field name="Note">3.3K for 300mAh</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22978"/>
+      <property name="Note" value="3.3K for 300mAh"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000612c1546</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25803</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25803"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006143356e</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>ON_OFF</value>
+      <footprint>dao-choc-ble:MSK-12C02</footprint>
+      <fields>
+        <field name="LCSC">C431541</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="LCSC" value="C431541"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614145ef</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>RESET</value>
+      <footprint>dao-choc-ble:TS-1086E</footprint>
+      <fields>
+        <field name="LCSC">C455276</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC" value="C455276"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614556d8</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MS88SF2</value>
+      <footprint>dao-choc-ble:MINEW_MS88SF2</footprint>
+      <libsource lib="dao-choc-ble" part="MS88SF2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611aa6f6</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C558442</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="LCSC" value="C558442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000613ed387</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>XC6220</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.torexsemi.com/file/xc6220/XC6220.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C86534</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="XC6220B331MR" description="1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5"/>
+      <property name="LCSC" value="C86534"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611eda84</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP73831</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C14879</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73831-2-OT" description="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"/>
+      <property name="LCSC" value="C14879"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dao-choc-ble-left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000611e98ee</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Battery_Management" part="MCP73831-2-OT">
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73831-2-OT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="STAT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VBAT" type="power_out"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="PROG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Power_Protection" part="USBLC6-2SC6">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="XC6220B331MR">
+      <description>1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5</description>
+      <docs>https://www.torexsemi.com/file/xc6220/XC6220.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6220B331MR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6220/XC6220.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="CE" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3401A">
+      <description>-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3401A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dao-choc-ble" part="KEY_SWITCH">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">KEY_SWITCH</field>
+        <field name="Footprint">dao-choc-ble:Kailh_PG1350_hotswap</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dao-choc-ble" part="MS88SF2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MS88SF2</field>
+        <field name="Footprint">dao-choc-ble-ms88sf2:MINEW_MS88SF2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="bidirectional"/>
+        <pin num="2" name="P1.13" type="bidirectional"/>
+        <pin num="3" name="P1.15" type="bidirectional"/>
+        <pin num="4" name="AIN0/P0.02" type="bidirectional"/>
+        <pin num="5" name="AIN5/P0.29" type="bidirectional"/>
+        <pin num="6" name="AIN7/P0.31" type="bidirectional"/>
+        <pin num="7" name="P0.26" type="bidirectional"/>
+        <pin num="8" name="AIN2/P0.04" type="bidirectional"/>
+        <pin num="9" name="P0.06" type="bidirectional"/>
+        <pin num="10" name="P0.08" type="bidirectional"/>
+        <pin num="11" name="P1.09" type="bidirectional"/>
+        <pin num="12" name="P0.12" type="bidirectional"/>
+        <pin num="13" name="GND" type="bidirectional"/>
+        <pin num="14" name="VDD" type="bidirectional"/>
+        <pin num="15" name="VDDH" type="bidirectional"/>
+        <pin num="16" name="D-" type="bidirectional"/>
+        <pin num="17" name="D+" type="bidirectional"/>
+        <pin num="18" name="P0.13" type="bidirectional"/>
+        <pin num="19" name="P0.15" type="bidirectional"/>
+        <pin num="20" name="RESET/P0.18" type="bidirectional"/>
+        <pin num="21" name="P0.20" type="bidirectional"/>
+        <pin num="22" name="P0.22" type="bidirectional"/>
+        <pin num="23" name="P0.24" type="bidirectional"/>
+        <pin num="24" name="P1.00" type="bidirectional"/>
+        <pin num="25" name="SWDIO" type="bidirectional"/>
+        <pin num="26" name="SWCLK" type="bidirectional"/>
+        <pin num="27" name="P0.09" type="bidirectional"/>
+        <pin num="28" name="P0.10" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="dao-choc-ble" part="OSHW-logo">
+      <fields>
+        <field name="Reference">#G</field>
+        <field name="Value">OSHW-logo</field>
+        <field name="Footprint">dao-choc-ble:OSHW-logo</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Battery_Management">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="dao-choc-ble">
+      <uri>C:\Keyboards\dao-choc-ble\pcb\44key\dao-choc-ble-pcb-left/../../../lib/dao-choc-ble.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VDD" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="BT_LED">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="P1.15" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="COL0">
+      <node ref="K1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K19" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="P0.12" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL1">
+      <node ref="K14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="P1.09" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL2">
+      <node ref="K15" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="P0.08" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL3">
+      <node ref="K10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K20" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="P0.13" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL4">
+      <node ref="K11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K17" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K21" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="P0.15" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL5">
+      <node ref="K12" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K18" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K22" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="K6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="P0.20" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="D+">
+      <node ref="U1" pin="17" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="10" name="D-">
+      <node ref="U1" pin="16" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="11" name="DBUS+">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="12" name="DBUS-">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="13" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="14" name="GNDS">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="VDDH" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K4" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K5" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K6" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K7" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K8" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K9" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K10" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K11" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K12" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K13" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K14" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K15" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K16" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K17" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K18" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K19" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K20" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K21" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K22" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D23-Pad1)">
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D24-Pad1)">
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D25-Pad1)">
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="STAT" pintype="output"/>
+    </net>
+    <net code="46" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="PROG" pintype="input"/>
+    </net>
+    <net code="47" name="REGBAT">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="48" name="RESET">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="RESET/P0.18" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="ROW0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="P0.06" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="ROW1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="AIN2/P0.04" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="ROW2">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="P0.22" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="ROW3">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="P0.24" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="SWCLK">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="SWCLK" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="SWDIO">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="VBAT">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="CE" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VBAT" pintype="power_out"/>
+    </net>
+    <net code="56" name="VBUS">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="57" name="VSENSE">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="AIN7/P0.31" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(SW1-Pad1)">
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="P1.13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="AIN0/P0.02" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="AIN5/P0.29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="P0.26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="P1.00" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="P0.09" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="P0.10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
