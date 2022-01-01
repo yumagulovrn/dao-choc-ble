@@ -32,6 +32,10 @@ Latest compiled bootloader based on Adafruit nRF52 Bootloader can be found here:
 
 Source code: https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader/tree/dao
 
+## Gerbers
+
+https://github.com/yumagulovrn/dao-choc-ble/releases/latest
+
 ## BOM
 
 ### PCB
