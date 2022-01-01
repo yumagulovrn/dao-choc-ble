@@ -1,1 +1,2 @@
 2021.09.27 - Initial release of version 1.0 by Rafael Yumagulov
+2022.01.01 - Added 42 key variant and BOM

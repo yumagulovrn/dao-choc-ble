@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name dao-choc-ble)(type KiCad)(uri ${KIPRJMOD}/../../../../lib/dao-choc-ble.pretty)(options "")(descr ""))
+)
