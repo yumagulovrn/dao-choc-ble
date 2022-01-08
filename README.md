@@ -73,13 +73,13 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 
 ### Other hardware
 
-| Name                           | Qty | Aliexpress                                   |
+| Name                           | Qty | AliExpress                                   |
 |--------------------------------|-----|----------------------------------------------|
-| LiPo Battery 502035            |   2 | ?                                            |
+| LiPo Battery 502035            |   2 | https://aliexpress.ru/item/1005003258617053.html |
 | Standoff M2x5mm                |  10 | https://aliexpress.ru/item/32597776358.html  |
-| Standoff M2x8mm                |   6 | https://aliexpress.ru/item/32597776358.htmll |
+| Standoff M2x8mm                |   6 | https://aliexpress.ru/item/32597776358.html  |
 | Screw M2x4mm                   |  32 | https://aliexpress.ru/item/32806166548.html  |
-| Connector JST 1.25mm 2pin Male |   2 | https://aliexpress.ru/item/1005003258617053.html |
+| Connector JST 1.25mm 2pin Male |   2 | ?                                            |
 | Silicone Bumpers               |   8 | https://aliexpress.ru/item/32912066603.html  |
 
 ## To Do List
