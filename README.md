@@ -57,10 +57,10 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 | R1-R2        | Resistor                  | 0603     | 5.1k          | https://aliexpress.com/item/1005001436923851.html | C23186  | 4   |
 | R3           | Resistor                  | 0603     | 4.7           | https://aliexpress.com/item/1005001436923851.html | C23164  | 2   |
 | R4           | Resistor                  | 0603     | 1M            | https://aliexpress.com/item/1005001436923851.html | C22935  | 2   |
-| R5           | Resistor                  | 0603     | 806k          | ?                                                 | C103828 | 2   |
+| R5           | Resistor                  | 0603     | **806k***     | https://aliexpress.com/item/1005001436923851.html | C103828 | 2   |
 | R6-R7        | Resistor                  | 0603     | 1k            | https://aliexpress.com/item/1005001436923851.html | C21190  | 4   |
 | R8           | Resistor                  | 0603     | 2M            | https://aliexpress.com/item/1005001436923851.html | C22976  | 2   |
-| R9           | Resistor                  | 0603     | **RPROG***    | ?                                                 | C22978  | 2   |
+| R9           | Resistor                  | 0603     | **RPROG****   | ?                                                 | C22978  | 2   |
 | R10          | Resistor                  | 0603     | 100k          | https://aliexpress.com/item/1005001436923851.html | C25803  | 2   |
 | SW1          | SPDT Switch               | ?        | MSK-12C02     | https://aliexpress.com/item/4000685483225.html    | C431541 | 2   |
 | SW2          | Tactile Button            | ?        | TS-1086E      | https://aliexpress.com/item/1005001846404680.html | C455276 | 2   |
@@ -69,7 +69,8 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 | U3           | Voltage Regulator IC      | SOT-23-5 | XC6220        | https://aliexpress.com/item/4000271612572.html    | C86534  | 2   |
 | U4           | Battery Charging IC       | SOT-23-5 | MCP73831      | https://aliexpress.com/item/32714249253.html      | C14879  | 2   |
 
-**RPROG** value depends on your battery capacity. For 300mAh battery should be 3.3K
+**806k*** You can replace it with 820k resistor, but voltage sensing circuit (for battery status) will give somewhat invalid values
+**RPROG**** Value depends on your battery capacity. For 300mAh battery should be 3.3K
 
 ### Other hardware
 
