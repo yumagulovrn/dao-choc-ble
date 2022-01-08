@@ -70,6 +70,7 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 | U4           | Battery Charging IC       | SOT-23-5 | MCP73831      | https://aliexpress.com/item/32714249253.html      | C14879  | 2   |
 
 **806k*** You can replace it with 820k resistor, but voltage sensing circuit (for battery status) will give somewhat invalid values
+
 **RPROG**** Value depends on your battery capacity. For 300mAh battery should be 3.3K
 
 ### Other hardware
