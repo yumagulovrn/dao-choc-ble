@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg71"
+   sodipodi:docname="dao-choc-ble-cut-wall.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview73"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.4468942"
+     inkscape:cx="144.44733"
+     inkscape:cy="1209.4872"
+     inkscape:window-width="1037"
+     inkscape:window-height="766"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g69" />
+  <desc
+     id="desc41">dao-choc-ble-bottom.dxf - scale = 1.0, origin = (0.0, 0.0), method = manual</desc>
+  <defs
+     id="defs55">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path43" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path46" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path48" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path50" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <marker
+       id="DistanceX-4"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path395" />
+    </marker>
+    <pattern
+       id="Hatch-6"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path398" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path400" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path402" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-0" />
+    <symbol
+       id="*PAPER_SPACE-3" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g69">
+    <path
+       d="m 153.67131,1093.67 v -7.1261 a 2.8504411,2.8504411 0 0 1 2.85045,-2.8504 h 48.45748 a 1146.5898,1146.5898 0 0 1 100.01407,4.3703 2.8504411,2.8504411 0 0 1 2.6018,2.8395 v 139.2825 a 2.8504411,2.8504411 0 0 0 1.42522,2.4686 l 49.15035,28.377 a 2.8504411,2.8504411 0 0 1 1.04334,3.8937 l -35.63051,61.7139 a 2.8504411,2.8504411 0 0 1 -3.89378,1.0433 l -18.51415,-10.6891 a 195.02318,195.02318 0 0 0 -45.76254,-18.7542 194.86122,194.86122 0 0 0 -50.4338,-6.6397 h -24.5267 a 2.8504411,2.8504411 0 0 1 -1.94962,-0.771 l -24.00926,-22.5104 a 2.8504411,2.8504411 0 0 0 -1.94961,-0.771 H 2.5979527 a 2.8504411,2.8504411 0 0 1 -2.85044109,-2.8504 v -52.7332 a 2.8504411,2.8504411 0 0 0 -2.85044111,-2.8505 H -48.709981 a 2.8504411,2.8504411 0 0 1 -2.85044,-2.8504 v -42.7566 a 2.8504411,2.8504411 0 0 1 2.85044,-2.8505 h 45.6070515 a 2.8504411,2.8504411 0 0 0 2.85044111,-2.8504 v -32.7801 a 2.8504411,2.8504411 0 0 1 2.85044109,-2.8504 H 48.205004 a 2.8504411,2.8504411 0 0 0 2.850441,-2.8504 v -0.7126 a 2.8504411,2.8504411 0 0 1 2.850441,-2.8505 h 45.607048 a 2.8504411,2.8504411 0 0 0 2.850446,-2.8505 v -13.5395 a 2.8504411,2.8504411 0 0 1 2.85044,-2.8505 h 45.60705 a 2.8504411,2.8504411 0 0 0 2.85044,-2.8504 z"
+       style="fill:none;stroke:#000000;stroke-width:0.754179"
+       id="path453" />
+  </g>
+</svg>
