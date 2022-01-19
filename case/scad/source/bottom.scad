@@ -1,7 +1,7 @@
 module
 sample()
 {
-    if(add_pinky) {
+    if (add_pinky) {
         import(file = "44key-dao-choc-ble-bottom.svg");
     } else {
         import(file = "42key-dao-choc-ble-bottom.svg");
