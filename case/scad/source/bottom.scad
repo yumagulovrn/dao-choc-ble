@@ -1,7 +1,11 @@
 module
 sample()
 {
-    import(file = "dao-choc-ble-bottom.svg");
+    if (add_pinky) {
+        import(file = "44key-dao-choc-ble-bottom.svg");
+    } else {
+        import(file = "42key-dao-choc-ble-bottom.svg");
+    }
 }
 
 bottom_thickness = 1.6;

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg71"
+   sodipodi:docname="dao-choc-ble-bottom.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview73"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.235309"
+     inkscape:cx="405.16179"
+     inkscape:cy="1193.6285"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g69" />
+  <desc
+     id="desc41">dao-choc-ble-bottom.dxf - scale = 1.0, origin = (0.0, 0.0), method = manual</desc>
+  <defs
+     id="defs55">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path43" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path46" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path48" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path50" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g69">
+    <path
+       d="m 153.53146,1093.4615 v -7.1319 c 3e-5,-1.5755 1.27724,-2.8527 2.85275,-2.8527 h 48.49673 c 56.47419,0 112.87134,4.169 168.73169,12.473 1.39814,0.2078 2.43326,1.4082 2.43328,2.8217 v 136.2118 c 0,0.5008 -0.13181,0.9927 -0.3822,1.4264 l -52.08244,90.2095 c -0.78783,1.3644 -2.53253,1.8318 -3.89693,1.044 l -18.52915,-10.6977 c -14.40817,-8.1747 -29.79842,-14.4818 -45.7996,-18.7693 -16.46224,-4.411 -33.43168,-6.6451 -50.47465,-6.6451 h -24.54656 c -0.72482,0 -1.42245,-0.2759 -1.9512,-0.7717 l -24.02871,-22.5286 c -0.52874,-0.4958 -1.22638,-0.7717 -1.95119,-0.7717 H 2.335733 c -1.57551069,0 -2.85272213,-1.2772 -2.85274963,-2.8527 l 0,-139.7847 c 2.75e-5,-1.5755 1.27723894,-2.8527 2.85274963,-2.8527 h 45.643989 c 1.575589,0 2.852833,-1.2773 2.85275,-2.8529 v -0.7131 c -2.8e-5,-1.5755 1.2772,-2.8528 2.85275,-2.8528 h 45.643999 c 1.575509,0 2.852709,-1.2772 2.852739,-2.8527 v -13.5505 c -3e-5,-1.5755 1.2772,-2.8528 2.85275,-2.8528 h 45.64399 c 1.57555,0 2.85279,-1.2772 2.85276,-2.8528 z"
+       style="fill:none;stroke:#000000;stroke-width:0.754789"
+       id="path57"
+       sodipodi:nodetypes="sssssccccccssccccsccssssssccsss" />
+  </g>
+</svg>
