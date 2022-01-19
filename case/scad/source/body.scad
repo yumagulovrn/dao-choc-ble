@@ -1,5 +1,6 @@
 $fn = 20;
 include <bottom.scad>
+add_pinky = false;
 left = false;
 draw_bottom = true;
 wall_height = 7.6;
@@ -22,12 +23,20 @@ plank_right()
 module
 sample_middle()
 {
-    import(file = "dao-choc-ble-bottom.svg");
+    if (add_pinky) {
+        import(file = "44key-dao-choc-ble-bottom.svg");
+    } else {
+        import(file = "42key-dao-choc-ble-bottom.svg");
+    }
 }
 module
 sample_top()
 {
-    import(file = "dao-choc-ble-additional-wall.svg");
+    if (add_pinky) {
+        import(file = "44key-dao-choc-ble-additional-wall.svg");
+    } else {
+        import(file = "42key-dao-choc-ble-additional-wall.svg");
+    }
 }
 
 module
