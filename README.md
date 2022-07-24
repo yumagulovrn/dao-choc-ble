@@ -32,6 +32,10 @@ Latest compiled bootloader based on Adafruit nRF52 Bootloader can be found here:
 
 Source code: https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader/tree/dao
 
+You will need separate device to flash the bootloader.
+
+Guide "how to flash the bootloader" can be found [here](https://github.com/Ladniy/jiran-ble-lite/wiki/Firmware). You can literally follow these instructions step-by-step but with *.hex file from [here](https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader/releases/latest)
+
 ## Gerbers
 
 https://github.com/yumagulovrn/dao-choc-ble/releases/latest
