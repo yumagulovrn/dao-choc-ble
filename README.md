@@ -50,7 +50,7 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 | D23          | Diode                     | SOD-123  | 1N5819W         | [1N5819W SOD-123 - 100 pcs](https://aliexpress.com/item/32849879904.html?sku_id=65195962304)                                                                                    | C169540 | 2   |
 | D24          | LED                       | 0603     | RED             | [0603 RED - 100 pcs](https://aliexpress.com/item/1206456185.html?sku_id=65106628406)                                                                                            | C2286   | 2   |
 | D25          | LED                       | 0603     | BLUE            | [0603 BLUE - 100 pcs](https://aliexpress.com/item/1206456185.html?sku_id=65106628409)                                                                                           | C72041  | 2   |
-| F1           | Fuse                      | 1206     | 500mA           | [1206 500mA - 50 pcs](https://aliexpress.ru/item/32907456681.html?sku_id=65843171275)                                                                                           | C355568 | 2   |
+| F1           | Fuse                      | 1206     | 500mA           | [1206 500mA - 50 pcs](https://aliexpress.com/item/32907456681.html?sku_id=65843171275)                                                                                          | C355568 | 2   |
 | J1           | USB Receptacle            | ?        | ?               | [1.6mm - 10 pcs](https://aliexpress.com/item/32998900371.html?sku_id=12000021526913497) [0.8mm - 10 pcs](https://aliexpress.com/item/32998900371.html?sku_id=12000021526913496) | C168688 | 2   |
 | K1-K22       | Kailh Choc Hotswap Socket | ?        | ?               | [90 pcs](https://aliexpress.com/item/33023283633.html?sku_id=10000000883911874)                                                                                                 | ?       | 44  |
 | Q1           | P-Mosfet                  | SOT-23   | AO3401A         | [50 pcs](https://aliexpress.com/item/32990534792.html)                                                                                                                          | C15127  | 2   |
@@ -75,14 +75,14 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 
 ### Other hardware
 
-| Name                           | Qty | AliExpress                                    |
-|--------------------------------|-----|-----------------------------------------------|
-| LiPo Battery 502035            |   2 | https://aliexpress.com/item/1005003258617053.html |
-| Standoff M2x5mm                |  10 | https://aliexpress.com/item/32597776358.html  |
-| Standoff M2x8mm                |   6 | https://aliexpress.com/item/32597776358.html  |
-| Screw M2x4mm                   |  32 | https://aliexpress.com/item/32806166548.html  |
-| Connector JST 1.25mm 2pin Male |   2 | ?                                             |
-| Silicone Bumpers               |   8 | https://aliexpress.com/item/32912066603.html  |
+| Name                           | Qty  | AliExpress                                                                                                                                                 |
+|--------------------------------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| LiPo Battery 502035            |    2 | [Global - 2 pcs](https://aliexpress.com/item/1005003717206039.html?sku_id=12000026915285813) [RU - 1 pcs](https://www.chipdip.ru/product/robiton-lp502035) |
+| Standoff M2x5mm                |   10 | [M2x5mm - 20 pcs](https://aliexpress.com/item/32597776358.html?sku_id=67114100494)                                                                         |
+| Standoff M2x8mm                |    6 | [M2x8mm - 20 pcs](https://aliexpress.com/item/32597776358.html?sku_id=67114100497)                                                                         |
+| Screw M2x4mm                   |   32 | [Black M2x4mm - 50 pcs](https://aliexpress.com/item/32806166548.html?sku_id=66702152887)                                                                   |
+| Connector JST 1.25mm 2pin Male |    2 | [20 pcs](https://aliexpress.com/item/4000076660477.html)                                                                                                   |
+| Silicone Bumpers               | 8-10 | [100 pcs](https://aliexpress.com/item/32912066603.html)                                                                                                    |
 
 ## To Do List
 - [x] Add BOM
