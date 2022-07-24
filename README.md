@@ -9,8 +9,8 @@ Available in 44 and 42 key variants
 Inspiration for the keyboard was taken from these keyboards:
 - [le_chiff_ble](https://github.com/MangoIV/le_chiff_ble) by [MangoIV](https://github.com/MangoIV) - electrical circuit
 - [Corne](https://github.com/foostan/crkbd) by [foostan](https://github.com/foostan) - thumb cluster
-- [Jorne](https://github.com/joric/jorne) by [joric](https://github.com/joric) - extra thumb key
-- [Jian](https://github.com/KGOH/Jian-Info) by [KGOH](https://github.com/KGOH) - extra thumb key and column staggering
+- [Jorne](https://github.com/joric/jorne) by [joric](https://github.com/joric) - extra pinky key
+- [Jian](https://github.com/KGOH/Jian-Info) by [KGOH](https://github.com/KGOH) - extra pinky key and column staggering
 
 ## Features
 
