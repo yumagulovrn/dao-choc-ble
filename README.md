@@ -102,3 +102,7 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 Telegram (eng): https://t.me/rafworksintl
 
 Telegram (ru): https://t.me/rafworks
+
+## Support and Warranty
+
+lmao
