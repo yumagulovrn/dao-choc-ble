@@ -1,7 +1,6 @@
 # Dao Choc BLE Keyboard
 
-[![Dao Choc BLE](https://i.imgur.com/Edb27iAh.jpg)](https://i.imgur.com/Edb27iA.jpg)
-
+[![Dao Choc BLE](https://i.imgur.com/4VNZkyhh.jpg)](https://i.imgur.com/4VNZkyh.jpg)
 Dao Choc BLE keyboard is an ergonomic wireless split keyboard for Kailh Choc switches based on MINEW MS88SF2 BLE module. This split keyboard is similar to Corne but it has an extra keys for brackets and international layouts as on Jorne or Jian.
 
 Available in 44 and 42 key variants
