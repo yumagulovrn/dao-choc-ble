@@ -10,6 +10,7 @@ Inspiration for the keyboard was taken from these keyboards:
 - [Corne](https://github.com/foostan/crkbd) by [foostan](https://github.com/foostan) - thumb cluster
 - [Jorne](https://github.com/joric/jorne) by [joric](https://github.com/joric) - extra pinky key
 - [Jian](https://github.com/KGOH/Jian-Info) by [KGOH](https://github.com/KGOH) - extra pinky key and column staggering
+- [Coren-ish Zen](https://lowprokb.ca/products/corne-ish-zen) by [DarrylDH](https://github.com/LOWPROKB) - choc-spacing, vibes
 
 ## Features
 
