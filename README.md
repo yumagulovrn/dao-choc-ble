@@ -88,6 +88,37 @@ https://github.com/yumagulovrn/dao-choc-ble/releases/latest
 | Connector JST 1.25mm 2pin Male |    2 | [20 pcs](https://aliexpress.com/item/4000076660477.html)                                                                                                   |
 | Silicone Bumpers               | 8-10 | [100 pcs](https://aliexpress.com/item/32912066603.html)                                                                                                    |
 
+## Cases
+
+Dao has a pretty wide choice of cases.
+
+### FR4 Case
+
+Consists of:
+* Bottom [42key](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/pcb_42key-dao-choc-ble-bottom-gerber.zip) [44key](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/pcb_44key-dao-choc-ble-bottom-gerber.zip)
+* Plate [42key](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/pcb_42key-dao-choc-ble-plate-gerber.zip) [44key](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/pcb_44key-dao-choc-ble-plate-gerber.zip)
+* [Shield](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/pcb_dao-choc-ble-shield-gerber.zip)
+
+**Note: plate should be 1.2mm thickness, bottom and shield can be any thickness you want (but I suggest 1.6mm)**
+
+### 3D Printed Cases
+
+#### OpenSCAD case from [shirokovroma](https://github.com/shirokovroma)
+
+Has two variants:
+* Bumper (you would need to have FR4 or printed plate, bottom and shield)
+  * 42 keys [left](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_42key-bumper-left.stl) [right](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_42key-bumper-right.stl)
+  * 44 keys [left](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_44key-bumper-left.stl) [right](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_44key-bumper-right.stl)
+* Full (you would need to have FR4 or printed plate and shield)
+  * 42 keys [left](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_42key-case-left.stl) [right](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_42key-case-right.stl)
+  * 44 keys [left](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_44key-case-left.stl) [right](https://github.com/yumagulovrn/dao-choc-ble/releases/download/v1.0/3d_44key-case-right.stl)
+
+#### [Dao keyboard slim case by Grigory Pavlichenko](https://www.thingiverse.com/thing:5988122)
+
+### CNC cases
+
+#### [Dao Shield by Mposiblee](https://github.com/Mposiblee/DaoShield)
+
 ## To Do List
 - [x] Add BOM
 - [x] Add images
