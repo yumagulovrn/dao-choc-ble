@@ -130,9 +130,9 @@ Has two variants:
 
 ## Contacts
 
-Telegram (eng): https://t.me/rafworksintl
+Telegram: https://ergonautkb.t.me
 
-Telegram (ru): https://t.me/rafworks
+Telegram (ru): https://ergonautkb_ru.t.me
 
 ## Support and Warranty
 
